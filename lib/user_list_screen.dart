@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/user.dart'; // Adjust import
-import 'package:myapp/user_service.dart'; // Adjust import
-import 'package:myapp/user_detail_screen.dart'; // Adjust import
+import 'package:myapp/user.dart';
+import 'package:myapp/user_service.dart';
+import 'package:myapp/user_detail_screen.dart';
 
 class UserListScreen extends StatefulWidget {
   const UserListScreen({super.key});

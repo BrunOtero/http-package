@@ -1,16 +1,20 @@
-# myapp
+# http package
 
-A new Flutter project.
+código Aula  --- Slide 11
 
-## Getting Started
+Crie um aplicativo que:
 
-This project is a starting point for a Flutter application.
+Tenha um list view que é preenchida pelos dados de um webService
+utilizar essa url : https://jsonplaceholder.typicode.com/users 
+Criar uma listView com cada user
+para cada linha exiba o nome e rua do user
+quando clicar em um item da lista mostrar detalhes daquele usuario
+nome, username, email, company e city
+utilizar http package
+Entrega:
 
-A few resources to get you started if this is your first Flutter project:
+Você deve ter um projeto no github (vinculado ao FirebaseStudio). Me adicionar como colaborador (user: renato-montanher) e mandar a url do repositório(github) por aqui.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Enviar tb o arquivo (ou os arquivos) que você construiu pra criar o exemplo da atividade. Caso seja interessante, considerar o exemplo "selecionar_get_http.dart" do gist com os códigos da aula
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ou seja, deve entregar um link de repositório e os arquvios *.dart aqui na atividade. 

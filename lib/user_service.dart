@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:myapp/user.dart'; // Adjust import based on your project structure
+import 'package:myapp/user.dart';
 
 class UserService {
   static const String _usersUrl = 'https://jsonplaceholder.typicode.com/users';
